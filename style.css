@@ -1,0 +1,43 @@
+.container{
+    border: 5px solid black;
+    margin: 100px 100px;
+}
+.main{
+    border: 3px solid black;
+    margin: 30px 20px;
+}
+.header{
+    text-align: center;
+    margin: 30px 0px;
+}
+.img-box{
+    border: 2px solid black;
+    margin: 70px 0px;
+    width:300px;
+}
+.content{
+    margin: 30px 0px;
+}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+.button{
+    margin: 20px 50px;    
+    font-size: 20px;
+    font-weight: bold;
+}
